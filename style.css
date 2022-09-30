@@ -90,3 +90,28 @@ body{
 .dropdown:hover .dropdown-content{
     display: block;
 }
+
+header.description{
+    padding: 20px;
+    border-color: var(--linen);
+    border-width: 3px;
+    border-radius: 20px;
+    border-style:solid;
+    margin: 20px;
+    background-color: var(--old-mauve);
+    color: white;
+}
+
+p, li{
+    text-indent: 20px;
+}
+
+.types{
+    text-align: center;
+}
+
+.types a{
+    color: var(--old-mauve);
+    padding-inline: 20px;
+    text-decoration: underline;
+}
