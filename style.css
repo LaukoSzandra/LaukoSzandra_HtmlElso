@@ -115,3 +115,11 @@ p, li{
     padding-inline: 20px;
     text-decoration: underline;
 }
+
+article{
+    margin: 5%;
+    background-color: var(--linen);
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5%;
+}
